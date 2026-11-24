@@ -1,2 +1,0 @@
-IncidentID,Date,DeviceAlias,Symptom,Scope,Test,Observation,LikelyCause,Action,Verification,Status
-LAB-001,YYYY-MM-DD,PC-01,Example DNS issue,One device,nslookup,Sample observation,Sample cause,Sample action,Sample verification,Example only
